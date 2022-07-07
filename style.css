@@ -23,7 +23,7 @@ h2 {
 .top-image {
     height: 800px;
     position: relative;
-    background-image: url('/images/donation0.jpg');
+    background-image: url('./images/donation0.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
